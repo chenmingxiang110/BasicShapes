@@ -11,11 +11,15 @@ Squares
 
 Cornered Squares
 
-<img src="demo/cornered_squares.png" width="2000">
+<img src="demo/cornerd_squares.png" width="2000">
 
 Half Cornered Squares
 
-<img src="demo/cornered_squares_half.png" width="2000">
+<img src="demo/cornerd_squares_half.png" width="2000">
+
+Rounded Buttons
+
+<img src="demo/rounded_button.png" width="2000">
 
 Triangles
 
@@ -24,3 +28,11 @@ Triangles
 Equilateral Triangles
 
 <img src="demo/triangles_equi.png" width="2000">
+
+Quarter Circles
+
+<img src="demo/quater_circles.png" width="2000">
+
+<img src="demo/quater_circles_s.png" width="2000">
+
+<img src="demo/quater_circles_s_half.png" width="2000">
