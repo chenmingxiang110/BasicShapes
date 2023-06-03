@@ -33,6 +33,17 @@ Quarter Circles
 
 <img src="demo/quater_circles.png" width="2000">
 
+<img src="demo/quater_circles_s_half.png" width="2000">
+
 <img src="demo/quater_circles_s.png" width="2000">
 
-<img src="demo/quater_circles_s_half.png" width="2000">
+Polygons
+
+<img src="demo/polygons.png" width="2000">
+
+Stars
+
+<img src="demo/stars0.png" width="2000">
+
+<img src="demo/stars1.png" width="2000">
+
